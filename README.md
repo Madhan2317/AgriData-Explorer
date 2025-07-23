@@ -29,28 +29,26 @@
 
 ---
 
-## 📊 Key Visualizations (Power BI)
-
-1. **Year-wise Trend of Rice Production (Top 3 States)**  
-   _Line chart with filter by top 3 rice-producing states over time_
-
-2. **Districts with Highest Rice Yield**  
-   _Bar chart with dropdown filter for selecting state_
-
-3. **Wheat and Rice Production Comparison (Last 50 Years)**  
-   _Line chart to observe production trends_
-
-4. **Oilseed and Groundnut Production (Top States)**  
-   _Bar and pie charts for state-wise share_
-
-5. **Area vs. Production (Rice, Wheat, Maize)**  
-   _Scatter plot to study relationship between cultivated area and yield_
-
-6. **Map Chart**  
-   _State-wise yield visualized geographically_
+### ✅ Key Highlights:
+- 📈 **Top 3 States - Rice Production Over the Years** (Line Chart)
+- 🌍 **Production Comparison by State** (Pie Charts for Rice & Maize)
+- 📌 **District-wise Rice Yield Rankings** (Bar Chart)
+- 🔄 **Dynamic Slicers** for `state name` and `year`
+- 📦 **Total Metrics:**
+  - Total Rice Production
+  - Total Rice Area
+  - Total Wheat Production
+- 🔬 **Correlation Analysis** between Rice Area vs Production (Scatter Plot)
 
 7. **Filter Controls (Slicers)**  
    _Year, State Name, Crop Type, Production Range_
 
 ---
 
+## 📸 Screenshots
+![image](![image](<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/3b0ccbb0-d553-49fa-9ef1-59528e3b2413" />
+)
+)
+![image](![image](<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/3fcaa77e-2391-4e84-b4dd-fe09f63a0b67" />
+)
+)
